@@ -1,0 +1,36 @@
+# Database
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+
+# Java
+java/target/
+*.class
+*.jar
+
+# C#
+csharp/bin/
+csharp/obj/
+
+# TypeScript
+typescript/node_modules/
+typescript/dist/
+
+# PowerShell
+powershell/deps/lib/
+
+# IDE
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# OS
+.DS_Store
+Thumbs.db
